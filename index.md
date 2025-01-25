@@ -4,7 +4,7 @@ government college kariavattom
 
 ### stream
 bsc compyter science 
-![gck]()
+![gck](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2DDV782AdGKkSUmC8Uk6aTgu8JTLfI0BfQ&s)
 
  -[x] semester 1
  -[x] semester 2
