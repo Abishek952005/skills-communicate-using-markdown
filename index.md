@@ -13,6 +13,6 @@ bsc compyter science
  -[] semester 5
  -[] semester 6
 
-
-***python
-print("i like my college")
+``` javascript
+var myVar = "Hello, world!";
+```
