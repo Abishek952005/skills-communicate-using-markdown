@@ -3,7 +3,7 @@
 government college kariavattom
 
 ### stream
-bsc compyter science 
+bsc compUter science 
 ![gck](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2DDV782AdGKkSUmC8Uk6aTgu8JTLfI0BfQ&s)
 
  -[x] semester 1
@@ -13,6 +13,9 @@ bsc compyter science
  -[] semester 5
  -[] semester 6
 
-``` javascript
-var myVar = "Hello, world!";
-```
+```java
+class java_class {
+  public static void main(String[] arg) {
+    System.out.println("got A grade in NACC accreditation");
+  }
+} 
